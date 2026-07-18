@@ -1,0 +1,23 @@
+baseURL = "https://babycare.inforcore.net/"
+title = "BabyCare"
+theme = "echochip-chirpy-hugo"
+locale = "ko-KR"
+enableRobotsTXT = true
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+
+[params]
+description = "유아용품 선택 기준과 육아 살림 정보 — 실사용 경험 중심으로 정리합니다"
+author = "BabyCare Editorial Team"
+tagline = "초보 부모를 위한 실용적인 육아 정보"
+favicon = "/favicon.ico"
+avatar = "/images/avatar.png"
+image = "/images/site-cover.jpg"
+
+[params.social]
+email = "libmeltd@gmail.com"
+
+[markup.goldmark.extensions]
+strikethrough = false
