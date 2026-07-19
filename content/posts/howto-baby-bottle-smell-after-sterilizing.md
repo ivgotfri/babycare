@@ -4,6 +4,9 @@ date: 2026-07-18
 categories: ["수유/이유식"]
 tags: ["젖병소독", "젖병냄새", "수유용품", "여름위생", "젖병관리"]
 description: "분명 소독까지 했는데 젖병에서 시큼한 냄새나 물비린내가 날 때, 원인을 하나씩 짚어가며 해결하는 방법을 정리했습니다."
+cover:
+  image: "/images/posts/howto-baby-bottle-smell-after-sterilizing.webp"
+  alt: "젖병 소독했는데 냄새가 날 때, 순서대로 점검하는 법"
 ---
 
 ## 소독까지 했는데 왜 냄새가 날까요
@@ -54,3 +57,5 @@ description: "분명 소독까지 했는데 젖병에서 시큼한 냄새나 물
 한 가지 덧붙이면, 아기가 특정 젖병으로 먹을 때만 유독 보채거나 소화가 불편해 보인다면, 냄새 문제와 별개로 수유 방식이나 아이 상태를 소아과 전문의와 상담해보시는 게 좋습니다. 아이마다 예민하게 반응하는 부분이 달라서, 같은 방법이 모든 아기에게 똑같이 맞지는 않거든요.
 
 소독은 마지막 마무리일 뿐이고, 결국 냄새 관리의 핵심은 **깨끗한 세척 + 완전한 건조**입니다. 이 두 가지만 챙겨도 대부분의 냄새는 잡히니, 오늘 소개한 순서대로 하나씩 확인해보세요.
+
+<small>사진: <a href="https://unsplash.com/@jaye_haych?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Jaye Haych</a> on <a href="https://unsplash.com/?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a></small>

@@ -4,6 +4,9 @@ date: 2026-07-19
 categories: ["수유/이유식"]
 tags: ["분유포트", "전기포트", "수유온도", "수유용품", "물끓이기"]
 description: "분유포트와 일반 전기포트의 구조적 차이와 온도 유지 방식, 어떤 상황에 어떤 게 맞는지 초보 부모 눈높이로 정리했습니다."
+cover:
+  image: "/images/posts/edu-formula-pot-vs-kettle.webp"
+  alt: "분유포트와 일반포트, 뭐가 다를까"
 ---
 
 ## "일반 포트 있는데 분유포트 꼭 사야 하나요?"
@@ -71,3 +74,5 @@ description: "분유포트와 일반 전기포트의 구조적 차이와 온도 
 - 분유 조유 방법과 권장 물 온도는 국내외 공공 보건·육아 기관에서 안내 자료를 제공하고 있으니, 세계보건기구(WHO)와 국내 보건 당국의 영유아 수유 관련 지침을 함께 확인해 보시길 권합니다.
 - 온도 유지 기능, 내부 재질, 안전 기능의 정확한 사양은 각 제조사의 공식 제품 설명서와 스펙 표기를 기준으로 확인하는 것이 가장 정확합니다.
 - 우리 아이에게 맞는 수유 온도·방식은 개인차가 있으므로, 소아과 전문의와의 상담을 함께 참고하시길 권합니다.
+
+<small>사진: <a href="https://unsplash.com/@battlecreekcoffeeroasters?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Battlecreek Coffee Roasters</a> on <a href="https://unsplash.com/?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a></small>
