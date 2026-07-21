@@ -2,7 +2,7 @@
 title: "실리콘 젖병과 유리젖병, 무게 때문에 고민될 때"
 date: 2026-07-21
 categories: ["수유/이유식"]
-tags: ["실리콘젖병", "유리젖병", "젖병무게", "수유용품", "젖병선택"]
+tags: ["비교선택", "수유용품"]
 description: "실리콘 젖병과 유리젖병의 무게 차이가 실제 수유에 어떤 영향을 주는지, 초보 부모가 자주 묻는 질문을 정리해 쉽게 설명합니다."
 cover:
   image: "/images/posts/edu-silicone-vs-glass-bottle-weight.webp"

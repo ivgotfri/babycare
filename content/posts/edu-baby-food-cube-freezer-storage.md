@@ -2,7 +2,7 @@
 title: "이유식 큐브, 냉동 보관 기간 얼마나 될까"
 date: 2026-07-20
 categories: ["수유/이유식"]
-tags: ["이유식 큐브", "냉동보관", "이유식", "위생", "보관기간"]
+tags: ["이유식", "위생관리"]
 description: "이유식 큐브를 냉동해두고 쓸 때 헷갈리는 보관 기간과 원칙을, 초보 부모 눈높이에서 쉽게 정리했습니다."
 cover:
   image: "/images/posts/edu-baby-food-cube-freezer-storage.webp"

@@ -2,7 +2,7 @@
 title: "아기띠 종류별 구조 차이, 하나씩 뜯어봤어요"
 date: 2026-07-20
 categories: ["외출용품"]
-tags: ["아기띠", "힙시트", "구조", "외출용품", "선택기준"]
+tags: ["외출용품", "비교선택", "안전기준"]
 description: "전면형·힙시트·랩형 아기띠가 구조적으로 어떻게 다른지, 시기별로 무엇을 봐야 하는지 초보 부모 눈높이에서 설명합니다."
 cover:
   image: "/images/posts/edu-baby-carrier-types.webp"

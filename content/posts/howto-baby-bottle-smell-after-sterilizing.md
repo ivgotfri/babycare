@@ -2,7 +2,7 @@
 title: "젖병 소독했는데 냄새가 날 때, 순서대로 점검하는 법"
 date: 2026-07-18
 categories: ["수유/이유식"]
-tags: ["젖병소독", "젖병냄새", "수유용품", "여름위생", "젖병관리"]
+tags: ["위생관리", "수유용품"]
 description: "분명 소독까지 했는데 젖병에서 시큼한 냄새나 물비린내가 날 때, 원인을 하나씩 짚어가며 해결하는 방법을 정리했습니다."
 cover:
   image: "/images/posts/howto-baby-bottle-smell-after-sterilizing.webp"

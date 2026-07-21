@@ -2,7 +2,7 @@
 title: "장마철 이유식 조리도구 관리, 습기가 왜 문제가 될까"
 date: 2026-07-20
 categories: ["수유/이유식"]
-tags: ["이유식 조리도구", "장마철 위생", "습기", "세척", "건조"]
+tags: ["위생관리", "이유식"]
 description: "장마철에 이유식 조리도구가 왜 더 관리가 까다로워지는지, 습기와 위생의 원리를 초보 부모 눈높이로 풀었습니다."
 cover:
   image: "/images/posts/edu-baby-food-tools-humidity-monsoon.webp"

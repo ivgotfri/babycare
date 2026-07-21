@@ -2,7 +2,7 @@
 title: "유모차 종류별 구조 차이, 우리 아이한테 뭐가 맞을까"
 date: 2026-07-21
 categories: ["외출용품"]
-tags: ["유모차", "디럭스형", "절충형", "휴대용", "외출용품"]
+tags: ["외출용품", "비교선택"]
 description: "디럭스형·절충형·휴대용 유모차가 구조적으로 어떻게 다른지, 무엇을 기준으로 골라야 하는지 초보 부모 눈높이에서 정리했습니다."
 cover:
   image: "/images/posts/edu-stroller-types.webp"

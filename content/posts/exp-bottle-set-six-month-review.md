@@ -2,7 +2,7 @@
 title: "젖병 세트 반년 써보고 남기는 솔직한 후기"
 date: 2026-07-21
 categories: ["수유/이유식"]
-tags: ["젖병세트", "젖병후기", "수유용품", "실사용후기", "젖병소독"]
+tags: ["실사용후기", "수유용품", "위생관리"]
 description: "젖병 세트를 반년 넘게 실제로 써본 부모의 솔직한 후기. 좋았던 점과 아쉬웠던 점, 지금도 쓰는 이유까지 담았습니다."
 cover:
   image: "/images/posts/exp-bottle-set-six-month-review.webp"

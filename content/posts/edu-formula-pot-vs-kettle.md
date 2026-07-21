@@ -2,7 +2,7 @@
 title: "분유포트와 일반포트, 뭐가 다를까"
 date: 2026-07-19
 categories: ["수유/이유식"]
-tags: ["분유포트", "전기포트", "수유온도", "수유용품", "물끓이기"]
+tags: ["수유용품", "비교선택"]
 description: "분유포트와 일반 전기포트의 구조적 차이와 온도 유지 방식, 어떤 상황에 어떤 게 맞는지 초보 부모 눈높이로 정리했습니다."
 cover:
   image: "/images/posts/edu-formula-pot-vs-kettle.webp"

@@ -2,7 +2,7 @@
 title: "젖병 답답할 정도로 안 나올 때 확인해야 할 것들"
 date: 2026-07-20
 categories: ["수유/이유식"]
-tags: ["젖꼭지 막힘", "수유 트러블", "젖병", "수유", "점검"]
+tags: ["수유용품"]
 description: "젖병을 물려도 분유가 답답하게 안 나올 때, 원인을 순서대로 짚어보고 집에서 확인할 수 있는 점검법을 정리했습니다."
 cover:
   image: "/images/posts/howto-baby-bottle-nipple-clogged.webp"

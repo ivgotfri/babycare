@@ -2,7 +2,7 @@
 title: "이유식 초기 거부할 때 확인해야 할 것들"
 date: 2026-07-19
 categories: ["수유/이유식"]
-tags: ["이유식거부", "이유식초기", "초기이유식", "수유", "육아고민"]
+tags: ["수유용품", "이유식", "비교선택"]
 description: "이유식 초기에 아이가 입을 다물고 거부할 때, 원인을 하나씩 짚어보고 집에서 시도해볼 수 있는 방법과 전문가 상담 시점을 정리했습니다."
 cover:
   image: "/images/posts/howto-baby-rejecting-first-solids.webp"

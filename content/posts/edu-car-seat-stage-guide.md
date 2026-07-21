@@ -2,7 +2,7 @@
 title: "카시트 등급별 사용 시기, 대체 뭘 기준으로 봐야 할까"
 date: 2026-07-18
 categories: ["외출용품"]
-tags: ["카시트", "신생아", "체중기준", "안전인증", "외출용품"]
+tags: ["안전기준", "외출용품"]
 description: "신생아용, 컨버터블, 부스터… 카시트 등급이 왜 나뉘는지와 사용 시기를 판단하는 기준을 초보 부모 눈높이에서 풀어드립니다."
 cover:
   image: "/images/posts/edu-car-seat-stage-guide.webp"

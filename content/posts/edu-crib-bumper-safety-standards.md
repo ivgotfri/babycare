@@ -2,7 +2,7 @@
 title: "아기 침대 범퍼, 안전 기준부터 확인하기"
 date: 2026-07-21
 categories: ["수면/안전용품"]
-tags: ["아기침대범퍼", "아기침대", "안전기준", "수면안전", "신생아"]
+tags: ["안전기준", "수면안전"]
 description: "아기 침대 범퍼를 고르기 전 꼭 알아야 할 안전 기준을 정리했어요. 왜 신생아 시기에 특히 신중해야 하는지, 무엇을 확인해야 하는지 쉽게 설명합니다."
 cover:
   image: "/images/posts/edu-crib-bumper-safety-standards.webp"

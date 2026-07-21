@@ -2,7 +2,7 @@
 title: "젖병 건조대, 통풍이 왜 중요할까"
 date: 2026-07-19
 categories: ["수유/이유식"]
-tags: ["젖병건조대", "젖병보관", "젖병세척", "수유용품", "위생관리"]
+tags: ["수유용품", "위생관리"]
 description: "젖병 건조대에서 통풍이 위생에 왜 중요한지, 물기가 남으면 어떤 일이 생기는지 원리부터 초보 부모 눈높이로 쉽게 설명합니다."
 cover:
   image: "/images/posts/edu-bottle-drying-rack-airflow.webp"
