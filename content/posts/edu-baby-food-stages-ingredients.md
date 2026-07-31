@@ -59,3 +59,9 @@ cover:
 - [임신육아종합포털 아이사랑](https://www.childcare.go.kr)
 
 <small>사진: <a href="https://unsplash.com/@aditya_sethia_97?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Aditya Sethia</a> on <a href="https://unsplash.com/?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a></small>
+
+<!-- related-posts -->
+### 함께 읽으면 좋은 글
+- [이유식 보관용기, 소재별 특징 쉽게 설명](/posts/edu-baby-food-container-materials/)
+- [이유식 큐브, 냉동 보관 기간 얼마나 될까](/posts/edu-baby-food-cube-freezer-storage/)
+- [여름철 이유식 보관, 상온이 위험한 이유](/posts/edu-summer-baby-food-storage/)

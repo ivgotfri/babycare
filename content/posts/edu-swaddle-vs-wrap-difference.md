@@ -59,3 +59,9 @@ cover:
 이 글에서 언급한 안전 인증·수면 환경 관련 내용은 [제품안전정보센터](https://www.safetykorea.kr)의 제품 안전 정보, [질병관리청](https://www.kdca.go.kr)의 영유아 건강·안전 관련 자료, 그리고 각 제조사가 공개하는 소재·사용 시기 표기 같은 공식 스펙을 함께 확인하시길 권합니다. 수유·수면처럼 아이 건강과 직결된 부분은, 개별 아이의 상태를 직접 살펴보는 소아과 전문의와 상담하는 것이 가장 믿을 만한 기준이 됩니다.
 
 <small>사진: <a href="https://unsplash.com/@kellysikkema?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Kelly Sikkema</a> on <a href="https://unsplash.com/?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a></small>
+
+<!-- related-posts -->
+### 함께 읽으면 좋은 글
+- [속싸개 따로, 겉싸개 따로 쓰는 이유가 있습니다](/posts/edu-swaddle-vs-outer-wrap-difference/)
+- [아기 체온계, 종류별 정확도 차이 쉽게 설명](/posts/edu-baby-thermometer-accuracy/)
+- [수면조끼와 이불, 개월수마다 뭐가 나을까](/posts/exp-sleep-vest-vs-blanket/)

@@ -59,3 +59,9 @@ cover:
 - 제품 안전성 판단 시에는 지어낸 등급 수치가 아니라, 실제 제품에 표기된 **KC 인증 및 안전 관련 표시**를 직접 확인하는 습관을 들이시길 권합니다.
 
 <small>사진: <a href="https://unsplash.com/@ddddaisy?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Daisy D</a> on <a href="https://unsplash.com/?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a></small>
+
+<!-- related-posts -->
+### 함께 읽으면 좋은 글
+- [카시트 등급별 사용 시기, 뭘 봐야 할까](/posts/edu-carseat-group-when-to-switch/)
+- [카시트 방향(후방/전방), 언제 바꿔야 할까](/posts/edu-car-seat-direction-timing/)
+- [늦여름 주차장 카시트 열기, 태우기 전 식히는 순서](/posts/howto-summer-carseat-cooling/)

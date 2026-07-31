@@ -57,3 +57,9 @@ cover:
 - [한국소비자원](https://www.kca.go.kr)
 
 <small>사진: <a href="https://unsplash.com/@qianjiawei?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">JIAWEI QIAN</a> on <a href="https://unsplash.com/?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a></small>
+
+<!-- related-posts -->
+### 함께 읽으면 좋은 글
+- [낮잠과 밤잠, 조도 구분이 필요한 이유](/posts/howto-nap-night-light/)
+- [아기 체온계, 종류별 정확도 차이 쉽게 설명](/posts/edu-baby-thermometer-accuracy/)
+- [아기 침대 매트리스, 딱딱해야 하는 이유](/posts/edu-crib-mattress-firmness/)

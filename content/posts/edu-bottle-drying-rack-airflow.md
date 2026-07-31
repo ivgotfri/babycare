@@ -81,3 +81,9 @@ cover:
 - 소독 방법과 주기, 우리 아이에게 필요한 위생 수준은 개인차가 있으므로, 소독기·젖병 제조사 안내와 소아과 전문의 상담을 함께 참고하시길 권합니다.
 
 <small>사진: <a href="https://unsplash.com/@yuheng?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Yu Heng</a> on <a href="https://unsplash.com/?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a></small>
+
+<!-- related-posts -->
+### 함께 읽으면 좋은 글
+- [젖병 세척 브러시, 왜 전용으로 써야 할까](/posts/edu-bottle-brush-dedicated/)
+- [젖병 세트 반년 써보고 남기는 솔직한 후기](/posts/exp-bottle-set-six-month-review/)
+- [젖병 교체 주기, 젖꼭지와 병이 다른 이유](/posts/edu-baby-bottle-nipple-replacement-cycle/)

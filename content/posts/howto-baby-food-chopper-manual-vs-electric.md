@@ -58,3 +58,9 @@ cover:
 어떤 제품을 고르든 사용 전 KC 인증 여부와 식품 접촉 안전 표시를 확인하고, 세척·소독 방법은 제조사 설명서를 따라 주세요. 도구는 어디까지나 손을 덜어주는 역할일 뿐, 완벽한 정답은 결국 우리 아이의 반응 속에 있습니다.
 
 <small>사진: <a href="https://unsplash.com/@mamanoleas?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Gwen Mamanoleas</a> on <a href="https://unsplash.com/?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a></small>
+
+<!-- related-posts -->
+### 함께 읽으면 좋은 글
+- [이유식 보관용기, 소재별 특징 쉽게 설명](/posts/edu-baby-food-container-materials/)
+- [분유포트와 일반포트, 뭐가 다를까](/posts/edu-formula-pot-vs-kettle/)
+- [젖병 소재(유리/PPSU), 뭐가 다를까](/posts/edu-baby-bottle-glass-ppsu/)

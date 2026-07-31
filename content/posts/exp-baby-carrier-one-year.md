@@ -46,3 +46,9 @@ cover:
 - [제품안전정보센터](https://www.safetykorea.kr) — 유아용 캐리어의 KC 인증 및 안전 정보 확인
 
 <small>사진: <a href="https://unsplash.com/@derekowensheart?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Derek Owens</a> on <a href="https://unsplash.com/?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a></small>
+
+<!-- related-posts -->
+### 함께 읽으면 좋은 글
+- [힙시트 아기띠 8개월 써보니: 여름 장마철에 알게 된 솔직한 이야기](/posts/exp-hipseat-carrier-review/)
+- [힙시트와 아기띠, 아이 개월수별로 뭐가 나을까](/posts/exp-hipseat-vs-carrier-months/)
+- [카시트 반년 써보고 남기는 솔직한 후기](/posts/exp-car-seat-six-months-review/)

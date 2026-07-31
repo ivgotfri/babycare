@@ -67,3 +67,9 @@ cover:
 - [한국소비자원](https://www.kca.go.kr) — 유아용품 안전 관련 소비자 정보
 
 <small>사진: <a href="https://unsplash.com/@hryrama?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Haryo Ramadantyo</a> on <a href="https://unsplash.com/?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a></small>
+
+<!-- related-posts -->
+### 함께 읽으면 좋은 글
+- [카시트 등급별 사용 시기, 대체 뭘 기준으로 봐야 할까](/posts/edu-car-seat-stage-guide/)
+- [카시트 방향(후방/전방), 언제 바꿔야 할까](/posts/edu-car-seat-direction-timing/)
+- [늦여름 주차장 카시트 열기, 태우기 전 식히는 순서](/posts/howto-summer-carseat-cooling/)

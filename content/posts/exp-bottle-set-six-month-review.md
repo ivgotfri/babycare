@@ -54,3 +54,9 @@ cover:
 젖병은 아이 입에 직접 닿는 물건이라, 어떤 세트를 고르든 KC 인증 여부와 식품 접촉 안전 표시를 꼭 확인하시길 권해요. 그리고 아이마다 잘 맞는 젖꼭지 모양이나 흐름 속도가 다르기 때문에, 제 후기가 모든 아이에게 그대로 맞는다고 장담할 순 없습니다. 수유량이나 아이가 특정 젖꼭지를 유독 거부하는 상황처럼 걱정되는 부분이 있다면, 소아과 전문의와 상담해 보시는 게 가장 안심됩니다. 저희 집 반년 경험이, 첫 젖병을 고르며 고민하는 분께 작은 참고가 되었으면 좋겠어요.
 
 <small>사진: <a href="https://unsplash.com/@dosejuice?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Dose Juice</a> on <a href="https://unsplash.com/?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a></small>
+
+<!-- related-posts -->
+### 함께 읽으면 좋은 글
+- [젖병 세척 브러시, 왜 전용으로 써야 할까](/posts/edu-bottle-brush-dedicated/)
+- [젖병 교체 주기, 젖꼭지와 병이 다른 이유](/posts/edu-baby-bottle-nipple-replacement-cycle/)
+- [젖병 건조대, 통풍이 왜 중요할까](/posts/edu-bottle-drying-rack-airflow/)

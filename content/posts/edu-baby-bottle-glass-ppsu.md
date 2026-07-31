@@ -51,3 +51,9 @@ PPSU는 이름이 낯설지만, 열과 충격에 강하게 설계된 엔지니�
 - [식품의약품안전처](https://www.mfds.go.kr) — 젖병 재질 및 유아용 식품용기 안전 기준
 
 <small>사진: <a href="https://unsplash.com/@isaax_the_artist?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Kedibone Isaac Makhumisane</a> on <a href="https://unsplash.com/?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a></small>
+
+<!-- related-posts -->
+### 함께 읽으면 좋은 글
+- [분유포트와 일반포트, 뭐가 다를까](/posts/edu-formula-pot-vs-kettle/)
+- [실리콘 젖병과 유리젖병, 무게 때문에 고민될 때](/posts/edu-silicone-vs-glass-bottle-weight/)
+- [젖병 답답할 정도로 안 나올 때 확인해야 할 것들](/posts/howto-baby-bottle-nipple-clogged/)

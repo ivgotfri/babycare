@@ -52,3 +52,9 @@ cover:
 마지막으로 한 가지. 아이마다 이유식 진행 속도와 선호하는 질감이 정말 다릅니다. 저희 아이한테 맞았던 방식이 모든 아이에게 맞는 건 아니니, 제품보다 아이 반응을 먼저 보시고요. 알레르기나 소화 관련해서 걱정되는 부분이 있다면 소아과 전문의와 상담하시는 걸 권합니다. 도구는 어디까지나 살림을 조금 편하게 해주는 거들 뿐이에요.
 
 <small>사진: <a href="https://unsplash.com/@andrew_bebello?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Andrew Carr</a> on <a href="https://unsplash.com/?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a></small>
+
+<!-- related-posts -->
+### 함께 읽으면 좋은 글
+- [젖병 세트 반년 써보고 남기는 솔직한 후기](/posts/exp-bottle-set-six-month-review/)
+- [이유식 보관용기, 소재별 특징 쉽게 설명](/posts/edu-baby-food-container-materials/)
+- [이유식 큐브, 냉동 보관 기간 얼마나 될까](/posts/edu-baby-food-cube-freezer-storage/)

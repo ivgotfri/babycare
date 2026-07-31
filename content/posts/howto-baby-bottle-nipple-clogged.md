@@ -58,3 +58,9 @@ cover:
 결국 핵심은 순서예요. 젖꼭지 단계 → 막힘 → 링 조임 → 노후, 이 흐름으로 하나씩 지워가면 원인은 대개 금방 잡힙니다. 저희도 이 순서를 알고 나선 새벽에 우왕좌왕하는 일이 확실히 줄었어요.
 
 <small>사진: <a href="https://unsplash.com/@shalevcohen?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Shalev Cohen</a> on <a href="https://unsplash.com/?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a></small>
+
+<!-- related-posts -->
+### 함께 읽으면 좋은 글
+- [이유식 초기 거부할 때 확인해야 할 것들](/posts/howto-baby-rejecting-first-solids/)
+- [젖병 세척 브러시, 왜 전용으로 써야 할까](/posts/edu-bottle-brush-dedicated/)
+- [젖병 세트 반년 써보고 남기는 솔직한 후기](/posts/exp-bottle-set-six-month-review/)

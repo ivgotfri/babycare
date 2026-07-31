@@ -48,3 +48,9 @@ cover:
 - [한국소비자원](https://www.kca.go.kr) — 유아용품 안전·관리 정보
 
 <small>사진: <a href="https://unsplash.com/@alicekat?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Alice Donovan Rouse</a> on <a href="https://unsplash.com/?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a></small>
+
+<!-- related-posts -->
+### 함께 읽으면 좋은 글
+- [유모차 접이식 구조, 관리할 때 확인할 것들](/posts/howto-stroller-fold-maintenance/)
+- [이슬비 정도엔 유모차 그냥 써도 될까](/posts/howto-stroller-light-rain-waterproof/)
+- [힙시트 아기띠 8개월 써보니: 여름 장마철에 알게 된 솔직한 이야기](/posts/exp-hipseat-carrier-review/)

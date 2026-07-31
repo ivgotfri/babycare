@@ -51,3 +51,9 @@ cover:
 - 실내 온습도 관리에 쓰는 가전(제습기·에어컨 등)의 안전 인증 정보: [제품안전정보센터](https://www.safetykorea.kr)
 
 <small>사진: <a href="https://unsplash.com/@marslady?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Minnie Zhou</a> on <a href="https://unsplash.com/?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a></small>
+
+<!-- related-posts -->
+### 함께 읽으면 좋은 글
+- [장마철 아기 침구 관리, 이렇게 달라졌어요](/posts/edu-rainy-season-baby-bedding/)
+- [장마철 아기방 습도 관리, 제습이 왜 중요할까](/posts/edu-baby-room-humidity-monsoon/)
+- [늦여름 아기 땀띠 걱정, 잠옷 소재 고르는 기준](/posts/edu-baby-pajama-fabric/)

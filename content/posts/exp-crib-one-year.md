@@ -47,3 +47,9 @@ description: "아기 침대를 1년 넘게 쓰며 겪은 진짜 이야기. 왜 �
 ## 참고자료
 - [질병관리청](https://www.kdca.go.kr)
 - [제품안전정보센터](https://www.safetykorea.kr)
+
+<!-- related-posts -->
+### 함께 읽으면 좋은 글
+- [열대야 아기 잠자리, 에어컨 바람 방향부터](/posts/exp-summer-nightheat-baby-sleep/)
+- [아기 침대 흔들릴 때 확인해야 할 고정법](/posts/howto-crib-wobble-fix/)
+- [백색소음기, 아기 수면에 정말 도움이 될까](/posts/exp-white-noise-machine/)

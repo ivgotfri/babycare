@@ -84,3 +84,9 @@ cover:
 - [한국소비자원](https://www.kca.go.kr) — 생활용품 안전 관련 소비자 정보
 
 <small>사진: <a href="https://unsplash.com/@simplifiedsafety?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Marketing Department</a> on <a href="https://unsplash.com/?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a></small>
+
+<!-- related-posts -->
+### 함께 읽으면 좋은 글
+- [아기 체온계, 종류별 정확도 차이 쉽게 설명](/posts/edu-baby-thermometer-accuracy/)
+- [콘센트 안전커버, 꼭 필요한 이유](/posts/edu-outlet-cover-safety/)
+- [아기 코너가드, 어디에 붙여야 효과적일까](/posts/edu-corner-guard-placement/)

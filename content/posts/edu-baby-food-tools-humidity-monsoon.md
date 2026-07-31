@@ -71,3 +71,9 @@ cover:
 ※ 위 내용은 일반적인 위생 정보 정리이며, 아이마다 상태가 다를 수 있습니다. 구체적인 사항은 담당 전문의와 상의하시길 권합니다.
 
 <small>사진: <a href="https://unsplash.com/@kaffeebart?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Kaffeebart</a> on <a href="https://unsplash.com/?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a></small>
+
+<!-- related-posts -->
+### 함께 읽으면 좋은 글
+- [이유식 큐브, 냉동 보관 기간 얼마나 될까](/posts/edu-baby-food-cube-freezer-storage/)
+- [이유식 보관용기, 소재별 특징 쉽게 설명](/posts/edu-baby-food-container-materials/)
+- [여름철 이유식 보관, 상온이 위험한 이유](/posts/edu-summer-baby-food-storage/)

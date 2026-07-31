@@ -49,3 +49,9 @@ cover:
 식히는 데 드는 시간은 길어야 몇 분입니다. 그 몇 분이 아이에겐 꽤 큰 차이를 만듭니다.
 
 <small>사진: <a href="https://unsplash.com/@sidralmundet?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Sidral Mundet</a> on <a href="https://unsplash.com/?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a></small>
+
+<!-- related-posts -->
+### 함께 읽으면 좋은 글
+- [카시트 벨트가 자꾸 풀릴 때 점검하는 순서](/posts/howto-car-seat-belt-loosening/)
+- [카시트 방향(후방/전방), 언제 바꿔야 할까](/posts/edu-car-seat-direction-timing/)
+- [카시트 ISOFIX와 벨트 고정, 설치 난이도가 갈리는 지점](/posts/exp-carseat-isofix-belt-installation/)

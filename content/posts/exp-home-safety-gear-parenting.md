@@ -46,3 +46,9 @@ description: "아기가 기어다니기 시작하며 집안 곳곳에 안전용�
 
 - [제품안전정보센터](https://www.safetykorea.kr) — 유아용 안전용품 KC 인증·리콜 정보
 - [한국소비자원](https://www.kca.go.kr) — 가정 내 어린이 안전사고 관련 정보
+
+<!-- related-posts -->
+### 함께 읽으면 좋은 글
+- [열대야 아기 잠자리, 에어컨 바람 방향부터](/posts/exp-summer-nightheat-baby-sleep/)
+- [속싸개 답답해 보일 때 — 원인부터 좁혀가는 법](/posts/howto-swaddle-looks-tight/)
+- [아기 체온계, 종류별 정확도 차이 쉽게 설명](/posts/edu-baby-thermometer-accuracy/)

@@ -55,3 +55,9 @@ cover:
 아기띠 역시 안전과 직결되므로, **제조사 공식 사용 설명서의 권장 개월 수·체중 범위·착용 자세**를 먼저 확인하시길 권합니다. 국내 유통 제품이라면 **KC 인증 여부**를 꼭 확인하세요. 어린이제품 안전 관련 일반 정보는 국가기술표준원 같은 공공기관 자료를 참고하면 도움이 됩니다. 아이의 발달 속도와 고관절·척추 상태는 개인차가 크므로, 자세와 사용 시기에 대한 판단은 영유아 검진이나 소아과 상담을 함께 활용하시는 걸 추천드립니다.
 
 <small>사진: <a href="https://unsplash.com/@weareambitious?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Ambitious Studio* | Rick Barrett</a> on <a href="https://unsplash.com/?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a></small>
+
+<!-- related-posts -->
+### 함께 읽으면 좋은 글
+- [아기띠 종류별 구조 차이 이해하기](/posts/edu-baby-carrier-types-structure/)
+- [유모차 종류별 구조 차이, 우리 아이한테 뭐가 맞을까](/posts/edu-stroller-types/)
+- [아기띠 신생아 패드, 언제까지 쓰는지 기준 잡기](/posts/edu-baby-carrier-newborn-insert/)

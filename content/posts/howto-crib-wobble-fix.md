@@ -59,3 +59,9 @@ cover:
 - [한국소비자원](https://www.kca.go.kr)
 
 <small>사진: <a href="https://unsplash.com/@simplicity?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Marija Zaric</a> on <a href="https://unsplash.com/?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a></small>
+
+<!-- related-posts -->
+### 함께 읽으면 좋은 글
+- [아기 침대 매트리스, 딱딱해야 하는 이유](/posts/edu-crib-mattress-firmness/)
+- [아기 침대 범퍼, 안전 기준부터 확인하기](/posts/edu-crib-bumper-safety-standards/)
+- [아기 침대 위치, 창가를 피하라는 이유](/posts/howto-crib-position-avoid-window/)

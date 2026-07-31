@@ -51,3 +51,9 @@ cover:
 - 재질별 소독 가능 온도·방식은 각 젖병 제조사가 제공하는 공식 제품 설명서와 사용 안내에 명시되어 있으니, 구매 전후로 반드시 확인해 보시길 권합니다.
 
 <small>사진: <a href="https://unsplash.com/@barabbabarabba?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Francesco Bovolin</a> on <a href="https://unsplash.com/?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a></small>
+
+<!-- related-posts -->
+### 함께 읽으면 좋은 글
+- [젖꼭지 유량, 개월수마다 다른 이유](/posts/edu-nipple-flow-by-month/)
+- [분유포트와 일반포트, 뭐가 다를까](/posts/edu-formula-pot-vs-kettle/)
+- [젖병 소재(유리/PPSU), 뭐가 다를까](/posts/edu-baby-bottle-glass-ppsu/)

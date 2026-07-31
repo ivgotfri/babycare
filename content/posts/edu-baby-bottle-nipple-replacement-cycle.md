@@ -49,3 +49,9 @@ cover:
 마지막으로, 수유량이 갑자기 줄거나 아이가 젖병을 자꾸 거부하는 등 건강과 관련된 변화가 보인다면 용품 문제로만 넘겨짚지 마시고 소아과 전문의와 상담하시는 게 좋습니다. 아이마다 필요한 단계와 속도가 다를 수 있으니, 오늘 소개한 신호들은 '언제 살펴봐야 할지'의 기준으로 활용해 주세요. 결국 핵심은 간단합니다. **병은 흠집으로, 젖꼭지는 상태로** 판단하는 것. 이 둘만 나눠 봐도 교체 시점이 훨씬 또렷해집니다.
 
 <small>사진: <a href="https://unsplash.com/@jccards?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Marek Studzinski</a> on <a href="https://unsplash.com/?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a></small>
+
+<!-- related-posts -->
+### 함께 읽으면 좋은 글
+- [젖병 세척 브러시, 왜 전용으로 써야 할까](/posts/edu-bottle-brush-dedicated/)
+- [젖병 세트 반년 써보고 남기는 솔직한 후기](/posts/exp-bottle-set-six-month-review/)
+- [젖꼭지 유량, 개월수마다 다른 이유](/posts/edu-nipple-flow-by-month/)

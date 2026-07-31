@@ -47,3 +47,9 @@ description: "신생아 때부터 반년 넘게 속싸개 세트를 쓰며 겪�
 ## 더 알아보기
 - [질병관리청](https://www.kdca.go.kr)
 - [한국소비자원](https://www.kca.go.kr)
+
+<!-- related-posts -->
+### 함께 읽으면 좋은 글
+- [아기 침대 1년 써보고 느낀 점](/posts/exp-crib-one-year/)
+- [열대야 아기 잠자리, 에어컨 바람 방향부터](/posts/exp-summer-nightheat-baby-sleep/)
+- [속싸개 답답해 보일 때 — 원인부터 좁혀가는 법](/posts/howto-swaddle-looks-tight/)

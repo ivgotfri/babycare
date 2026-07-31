@@ -47,3 +47,9 @@ cover:
 - [제품안전정보센터](https://www.safetykorea.kr)
 
 <small>사진: <a href="https://unsplash.com/@a8ka?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Anton Shuvalov</a> on <a href="https://unsplash.com/?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a></small>
+
+<!-- related-posts -->
+### 함께 읽으면 좋은 글
+- [젖병 교체 주기, 젖꼭지와 병이 다른 이유](/posts/edu-baby-bottle-nipple-replacement-cycle/)
+- [실리콘 젖병과 유리젖병, 무게 때문에 고민될 때](/posts/edu-silicone-vs-glass-bottle-weight/)
+- [분유포트와 일반포트, 뭐가 다를까](/posts/edu-formula-pot-vs-kettle/)

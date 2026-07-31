@@ -43,3 +43,9 @@ ISOFIX 카시트를 처음 장착하던 날이 기억납니다. 카시트 아래
 무엇을 고르든, 아이 체격과 개월 수에 맞는 사용 방향인지(신생아용·컨버터블 등)는 아이마다 다를 수 있으니 제품 안내를 꼭 확인하세요. 카시트 관련 사고·리콜 정보는 [한국소비자원](https://www.kca.go.kr)에서도 살펴볼 수 있습니다. 결국 제가 두 번의 회차 끝에 내린 결론은 처음 그 교훈 그대로였어요. 비싼 카시트보다, **흔들었을 때 덜컹거리지 않는 카시트**가 좋은 카시트입니다.
 
 <small>사진: <a href="https://unsplash.com/@imjamie?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Jamie O’Sullivan</a> on <a href="https://unsplash.com/?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a></small>
+
+<!-- related-posts -->
+### 함께 읽으면 좋은 글
+- [카시트 중고로 물려받을 때 살펴야 하는 부분](/posts/exp-secondhand-carseat-check/)
+- [카시트 방향(후방/전방), 언제 바꿔야 할까](/posts/edu-car-seat-direction-timing/)
+- [늦여름 주차장 카시트 열기, 태우기 전 식히는 순서](/posts/howto-summer-carseat-cooling/)

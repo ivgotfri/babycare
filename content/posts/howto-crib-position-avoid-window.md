@@ -48,3 +48,9 @@ cover:
 위치를 옮겼는데도 아이가 유난히 자주 깬다면, 자리 문제만이 아닐 수 있습니다. 방 온도와 습도를 계절에 맞게 조절해보고, 조명과 소음을 한 번 더 점검해보세요. 그런데도 수면 패턴이 눈에 띄게 불규칙하거나 아이가 힘들어한다면, 환경 조정으로만 넘기지 마시고 소아과 전문의와 상담하시는 것을 권합니다. 아이마다 예민한 요인이 다르고 필요한 수면 환경도 제각각이라, 오늘 정리한 점검 순서는 '무엇부터 살펴볼지'의 출발점으로 삼아주세요. 창가를 피하라는 말은 미신이 아니라, 여러 위험 요소가 한자리에 모여 있으니 하나씩 덜어내자는 실용적인 조언입니다.
 
 <small>사진: <a href="https://unsplash.com/@fanvisn?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Ilsu Fan</a> on <a href="https://unsplash.com/?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a></small>
+
+<!-- related-posts -->
+### 함께 읽으면 좋은 글
+- [아기 침대 매트리스, 딱딱해야 하는 이유](/posts/edu-crib-mattress-firmness/)
+- [아기 침대 흔들릴 때 확인해야 할 고정법](/posts/howto-crib-wobble-fix/)
+- [아기 침대 범퍼, 안전 기준부터 확인하기](/posts/edu-crib-bumper-safety-standards/)

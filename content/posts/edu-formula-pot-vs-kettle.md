@@ -76,3 +76,9 @@ cover:
 - 우리 아이에게 맞는 수유 온도·방식은 개인차가 있으므로, 소아과 전문의와의 상담을 함께 참고하시길 권합니다.
 
 <small>사진: <a href="https://unsplash.com/@battlecreekcoffeeroasters?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Battlecreek Coffee Roasters</a> on <a href="https://unsplash.com/?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a></small>
+
+<!-- related-posts -->
+### 함께 읽으면 좋은 글
+- [젖병 소재(유리/PPSU), 뭐가 다를까](/posts/edu-baby-bottle-glass-ppsu/)
+- [실리콘 젖병과 유리젖병, 무게 때문에 고민될 때](/posts/edu-silicone-vs-glass-bottle-weight/)
+- [젖꼭지 유량, 개월수마다 다른 이유](/posts/edu-nipple-flow-by-month/)

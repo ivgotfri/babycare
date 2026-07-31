@@ -51,3 +51,9 @@ cover:
 - [제품안전정보센터](https://www.safetykorea.kr)
 
 <small>사진: <a href="https://unsplash.com/@pixelbuddhastudio?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Pixelbuddha Studio</a> on <a href="https://unsplash.com/?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a></small>
+
+<!-- related-posts -->
+### 함께 읽으면 좋은 글
+- [열대야 아기 잠자리, 에어컨 바람 방향부터](/posts/exp-summer-nightheat-baby-sleep/)
+- [아기 침대 1년 써보고 느낀 점](/posts/exp-crib-one-year/)
+- [백색소음기 볼륨, 기준을 정해두는 이유](/posts/exp-white-noise-machine-volume/)

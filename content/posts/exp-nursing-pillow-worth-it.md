@@ -46,3 +46,9 @@ cover:
 한 가지 덧붙이면, 수유 자세나 아기가 자꾸 사레들리는 것 같은 부분은 쿠션으로 해결할 문제가 아니라 소아과 전문의나 수유 상담을 받아보시는 게 좋아요. 아이마다 편한 자세와 먹는 양이 다르니까요. 저는 "팔 아픈 문제"를 덜어준 도구로서 만족했다, 딱 여기까지 후기로 남겨둘게요.
 
 <small>사진: <a href="https://unsplash.com/@deiimy?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Dei R.</a> on <a href="https://unsplash.com/?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a></small>
+
+<!-- related-posts -->
+### 함께 읽으면 좋은 글
+- [실리콘 젖병과 유리젖병, 무게 때문에 고민될 때](/posts/edu-silicone-vs-glass-bottle-weight/)
+- [젖병 답답할 정도로 안 나올 때 확인해야 할 것들](/posts/howto-baby-bottle-nipple-clogged/)
+- [젖병 세척 브러시, 왜 전용으로 써야 할까](/posts/edu-bottle-brush-dedicated/)

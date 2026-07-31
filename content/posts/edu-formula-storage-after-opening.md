@@ -55,3 +55,9 @@ cover:
 뜯은 날짜 한 줄. 그게 늦여름 분유 관리의 시작입니다.
 
 <small>사진: <a href="https://unsplash.com/@alexsaks?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Alex Saks</a> on <a href="https://unsplash.com/?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a></small>
+
+<!-- related-posts -->
+### 함께 읽으면 좋은 글
+- [분유 타는 물 온도, 기준이 있는 이유](/posts/howto-formula-water-temperature/)
+- [젖병 교체 주기, 젖꼭지와 병이 다른 이유](/posts/edu-baby-bottle-nipple-replacement-cycle/)
+- [여름철 이유식 보관, 상온이 위험한 이유](/posts/edu-summer-baby-food-storage/)

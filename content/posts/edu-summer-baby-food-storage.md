@@ -58,3 +58,9 @@ cover:
 - [소비자위해감시시스템(CISS)](https://www.ciss.go.kr) — 가정 내 안전·위해 정보
 
 <small>사진: <a href="https://unsplash.com/@markusspiske?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Markus Spiske</a> on <a href="https://unsplash.com/?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a></small>
+
+<!-- related-posts -->
+### 함께 읽으면 좋은 글
+- [이유식 큐브, 냉동 보관 기간 얼마나 될까](/posts/edu-baby-food-cube-freezer-storage/)
+- [늦여름 분유 보관, 개봉 후 한 달 기준을 지키는 이유](/posts/edu-formula-storage-after-opening/)
+- [분유 타는 물 온도, 기준이 있는 이유](/posts/howto-formula-water-temperature/)

@@ -68,3 +68,9 @@ cover:
 - [한국소비자원](https://www.kca.go.kr)
 
 <small>사진: <a href="https://unsplash.com/@svalenas?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Sergiu Vălenaș</a> on <a href="https://unsplash.com/?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a></small>
+
+<!-- related-posts -->
+### 함께 읽으면 좋은 글
+- [아기띠 종류별 구조 차이, 하나씩 뜯어봤어요](/posts/edu-baby-carrier-types/)
+- [유모차 종류별 구조 차이, 우리 아이한테 뭐가 맞을까](/posts/edu-stroller-types/)
+- [아기띠 신생아 패드, 언제까지 쓰는지 기준 잡기](/posts/edu-baby-carrier-newborn-insert/)

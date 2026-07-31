@@ -53,3 +53,9 @@ cover:
 - [질병관리청](https://www.kdca.go.kr) — 영유아 건강·환경 관련 일반 정보
 
 <small>사진: <a href="https://unsplash.com/@heftiba?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Toa Heftiba</a> on <a href="https://unsplash.com/?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a></small>
+
+<!-- related-posts -->
+### 함께 읽으면 좋은 글
+- [열대야 아기 잠자리, 에어컨 바람 방향부터](/posts/exp-summer-nightheat-baby-sleep/)
+- [아기 체온계, 종류별 정확도 차이 쉽게 설명](/posts/edu-baby-thermometer-accuracy/)
+- [아기 침대 흔들릴 때 확인해야 할 고정법](/posts/howto-crib-wobble-fix/)

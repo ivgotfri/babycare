@@ -87,3 +87,9 @@ cover:
 이유식 초기 거부, 원인은 대개 준비 시기·온도와 농도·도구·타이밍·새 맛에 대한 경계 중 어딘가에 있어요. 하나씩 차분히 짚어보고, 안 되는 날은 쿨하게 넘기세요. 그리고 걱정되는 신호가 있을 땐 주저 없이 전문의와 상담하시길 바랍니다. 아이마다 속도는 다 다르니까요.
 
 <small>사진: <a href="https://unsplash.com/@derekowensheart?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Derek Owens</a> on <a href="https://unsplash.com/?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a></small>
+
+<!-- related-posts -->
+### 함께 읽으면 좋은 글
+- [젖병 답답할 정도로 안 나올 때 확인해야 할 것들](/posts/howto-baby-bottle-nipple-clogged/)
+- [실리콘 젖병과 유리젖병, 무게 때문에 고민될 때](/posts/edu-silicone-vs-glass-bottle-weight/)
+- [이유식 보관용기, 소재별 특징 쉽게 설명](/posts/edu-baby-food-container-materials/)

@@ -55,3 +55,9 @@ cover:
 - 제품별 상세 규격은 각 제조사 공식 스펙 표기를 기준으로 확인하는 것이 정확합니다.
 
 <small>사진: <a href="https://unsplash.com/@porkbellysteve?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Stephen Andrews</a> on <a href="https://unsplash.com/?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a></small>
+
+<!-- related-posts -->
+### 함께 읽으면 좋은 글
+- [아기 침대 위치, 창가를 피하라는 이유](/posts/howto-crib-position-avoid-window/)
+- [아기 침대 흔들릴 때 확인해야 할 고정법](/posts/howto-crib-wobble-fix/)
+- [아기 침대 범퍼, 안전 기준부터 확인하기](/posts/edu-crib-bumper-safety-standards/)

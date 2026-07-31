@@ -57,3 +57,9 @@ cover:
 유모차는 안전과 직결되는 용품이라, 구매 전 반드시 각 제조사가 공개하는 **공식 제품 스펙(사용 가능 개월 수, 시트 각도, 최대 하중, 무게)**을 확인하는 것을 권합니다. 또한 국내 유통 제품이라면 **KC 인증 여부**를 꼭 확인하세요. 어린이제품 안전 관련 정보는 국가기술표준원 등 공공기관에서 제공하는 안전 정보를 참고하시면 도움이 됩니다. 아이의 발달 속도는 개인차가 크므로, 시기별로 맞는 자세와 사용법은 소아과 전문의나 영유아 검진 시 상담하시는 것을 추천드립니다.
 
 <small>사진: <a href="https://unsplash.com/@mobio_be?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Mobio Marketing</a> on <a href="https://unsplash.com/?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a></small>
+
+<!-- related-posts -->
+### 함께 읽으면 좋은 글
+- [아기띠 종류별 구조 차이 이해하기](/posts/edu-baby-carrier-types-structure/)
+- [아기띠 종류별 구조 차이, 하나씩 뜯어봤어요](/posts/edu-baby-carrier-types/)
+- [유모차 무게 6kg과 9kg, 숫자 이상의 차이](/posts/edu-stroller-weight-6kg-9kg/)

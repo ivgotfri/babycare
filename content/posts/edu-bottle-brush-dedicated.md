@@ -47,3 +47,9 @@ cover:
 - [제품안전정보센터](https://www.safetykorea.kr) — 유아용품 안전 정보 확인
 
 <small>사진: <a href="https://unsplash.com/@mishaalzahed?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Mishaal Zahed (Meschael Zahède)</a> on <a href="https://unsplash.com/?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a></small>
+
+<!-- related-posts -->
+### 함께 읽으면 좋은 글
+- [젖병 세트 반년 써보고 남기는 솔직한 후기](/posts/exp-bottle-set-six-month-review/)
+- [젖병 교체 주기, 젖꼭지와 병이 다른 이유](/posts/edu-baby-bottle-nipple-replacement-cycle/)
+- [젖병 건조대, 통풍이 왜 중요할까](/posts/edu-bottle-drying-rack-airflow/)

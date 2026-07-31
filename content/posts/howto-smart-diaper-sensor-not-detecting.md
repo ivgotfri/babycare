@@ -67,3 +67,9 @@ cover:
 제품마다 다릅니다. 방수 등급과 세척 방법은 반드시 설명서 기준을 따르세요. 임의 세척은 고장의 지름길이에요.
 
 <small>사진: <a href="https://unsplash.com/@bibliokat?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Kat van der Linden</a> on <a href="https://unsplash.com/?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a></small>
+
+<!-- related-posts -->
+### 함께 읽으면 좋은 글
+- [장마철 아기 침구 관리, 이렇게 달라졌어요](/posts/edu-rainy-season-baby-bedding/)
+- [장마철 아기방 습도 관리, 제습이 왜 중요할까](/posts/edu-baby-room-humidity-monsoon/)
+- [늦여름 아기 땀띠 걱정, 잠옷 소재 고르는 기준](/posts/edu-baby-pajama-fabric/)

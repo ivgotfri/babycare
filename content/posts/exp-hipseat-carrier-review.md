@@ -54,3 +54,9 @@ cover:
 무엇보다 아기띠는 아이 개월 수와 체중, 그리고 매는 사람 체형에 맞아야 오래 편하게 쓸 수 있어요. 구매 전엔 사용 가능 월령과 체중 범위, 그리고 KC 인증 여부를 꼭 확인해보시고, 가능하면 직접 매장에서 매보고 고르시길 권합니다. 저처럼 저가형으로 한 번 실패하고 다시 사는 것보단, 처음부터 내 몸에 맞는 걸 찾는 게 결국 이득이더라고요.
 
 <small>사진: <a href="https://unsplash.com/@nappystudio?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Nappy</a> on <a href="https://unsplash.com/?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a></small>
+
+<!-- related-posts -->
+### 함께 읽으면 좋은 글
+- [절충형 유모차 10개월 써보니: 솔직한 장단점](/posts/exp-convertible-stroller/)
+- [아기띠 1년 써보고 느낀 점](/posts/exp-baby-carrier-one-year/)
+- [힙시트와 아기띠, 아이 개월수별로 뭐가 나을까](/posts/exp-hipseat-vs-carrier-months/)

@@ -53,3 +53,9 @@ cover:
 - [식품의약품안전처](https://www.mfds.go.kr) — 세탁·위생 관련 제품 안전 정보
 
 <small>사진: <a href="https://unsplash.com/@jonathanborba?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Jonathan Borba</a> on <a href="https://unsplash.com/?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a></small>
+
+<!-- related-posts -->
+### 함께 읽으면 좋은 글
+- [장마철 아기방 습도 관리, 제습이 왜 중요할까](/posts/edu-baby-room-humidity-monsoon/)
+- [늦여름 아기 땀띠 걱정, 잠옷 소재 고르는 기준](/posts/edu-baby-pajama-fabric/)
+- [여름철 아기 수면환경, 온도·습도 체크리스트](/posts/edu-summer-baby-sleep-temperature-humidity/)

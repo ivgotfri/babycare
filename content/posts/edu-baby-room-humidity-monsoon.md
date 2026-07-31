@@ -65,3 +65,9 @@ cover:
 - [제품안전정보센터](https://www.safetykorea.kr) — 가정용 전기제품 안전·인증 정보
 
 <small>사진: <a href="https://unsplash.com/@francotheshooter?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Franco Debartolo</a> on <a href="https://unsplash.com/?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a></small>
+
+<!-- related-posts -->
+### 함께 읽으면 좋은 글
+- [장마철 아기 침구 관리, 이렇게 달라졌어요](/posts/edu-rainy-season-baby-bedding/)
+- [여름철 아기 수면환경, 온도·습도 체크리스트](/posts/edu-summer-baby-sleep-temperature-humidity/)
+- [자동화장실(스마트기저귀) 감지 안 될 때 원인과 대처](/posts/howto-smart-diaper-sensor-not-detecting/)

@@ -49,3 +49,9 @@ description: "베이비캠을 아무 데나 두면 잘 안 보이는 이유부�
 ## 이 글을 쓰며 참고한 것
 - [한국소비자원](https://www.kca.go.kr)
 - [제품안전정보센터](https://www.safetykorea.kr)
+
+<!-- related-posts -->
+### 함께 읽으면 좋은 글
+- [아기 침대 매트리스, 딱딱해야 하는 이유](/posts/edu-crib-mattress-firmness/)
+- [아기 침대 위치, 창가를 피하라는 이유](/posts/howto-crib-position-avoid-window/)
+- [아기 침대 흔들릴 때 확인해야 할 고정법](/posts/howto-crib-wobble-fix/)

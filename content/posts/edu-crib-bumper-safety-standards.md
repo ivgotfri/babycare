@@ -58,3 +58,9 @@ A. 걱정되는 마음은 저도 같았어요. 다만 그 걱정을 범퍼 하�
 정확한 최신 기준은 위 기관들의 공식 자료에서 직접 확인하시길 권해요. 그리고 우리 아이의 수면 환경에 대해 걱정되는 점이 있다면, 소아과 전문의와 상담해 보시는 게 가장 확실합니다.
 
 <small>사진: <a href="https://unsplash.com/@omerssaleh?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Omer Saleh</a> on <a href="https://unsplash.com/?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a></small>
+
+<!-- related-posts -->
+### 함께 읽으면 좋은 글
+- [아기 침대 흔들릴 때 확인해야 할 고정법](/posts/howto-crib-wobble-fix/)
+- [아기 침대 매트리스, 딱딱해야 하는 이유](/posts/edu-crib-mattress-firmness/)
+- [아기 침대 위치, 창가를 피하라는 이유](/posts/howto-crib-position-avoid-window/)

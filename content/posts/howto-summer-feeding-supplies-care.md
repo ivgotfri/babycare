@@ -62,3 +62,9 @@ cover:
 마지막으로, 아이 입에 직접 닿는 물건인 만큼 관리 기준을 조금 보수적으로 잡으셔도 괜찮습니다. 다만 아이마다 예민한 정도가 다르고, 위생 관리 방식도 가정 환경에 따라 조금씩 달라질 수 있어요. 수유·위생과 관련해 걱정되는 부분이 있다면 소아과 전문의와 상담하시는 걸 권합니다.
 
 <small>사진: <a href="https://unsplash.com/@golfarisa?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Arisa Chattasa</a> on <a href="https://unsplash.com/?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a></small>
+
+<!-- related-posts -->
+### 함께 읽으면 좋은 글
+- [젖병 세척 브러시, 왜 전용으로 써야 할까](/posts/edu-bottle-brush-dedicated/)
+- [젖병 세트 반년 써보고 남기는 솔직한 후기](/posts/exp-bottle-set-six-month-review/)
+- [젖병 교체 주기, 젖꼭지와 병이 다른 이유](/posts/edu-baby-bottle-nipple-replacement-cycle/)

@@ -59,3 +59,9 @@ cover:
 - [임신육아종합포털 아이사랑](https://www.childcare.go.kr)
 
 <small>사진: <a href="https://unsplash.com/@aminhasani?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Amin Hasani</a> on <a href="https://unsplash.com/?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a></small>
+
+<!-- related-posts -->
+### 함께 읽으면 좋은 글
+- [열대야 아기 잠자리, 에어컨 바람 방향부터](/posts/exp-summer-nightheat-baby-sleep/)
+- [백색소음기, 아기 수면에 정말 도움이 될까](/posts/exp-white-noise-machine/)
+- [속싸개와 겉싸개, 고르기 전에 알아야 할 차이](/posts/edu-swaddle-vs-wrap-difference/)

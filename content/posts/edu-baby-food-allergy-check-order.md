@@ -58,3 +58,9 @@ A. 검사와 해석은 의료의 영역입니다. 자가 판단보다 진료를 
 - 이유식 진행과 관련한 소아청소년과 진료 시 안내되는 일반적 관찰 원칙
 
 (구체적인 진단·처방은 이 글의 범위를 벗어나며, 반드시 전문의 상담이 필요합니다.)
+
+<!-- related-posts -->
+### 함께 읽으면 좋은 글
+- [여름철 이유식 보관, 상온이 위험한 이유](/posts/edu-summer-baby-food-storage/)
+- [폭염에 이유식 외출 도시락, 보냉 준비 순서](/posts/howto-baby-food-lunch-cooler/)
+- [이유식 보관용기, 소재별 특징 쉽게 설명](/posts/edu-baby-food-container-materials/)

@@ -71,3 +71,9 @@ cover:
 - [제품안전정보센터](https://www.safetykorea.kr) — 유아용 침구·속싸개 KC 인증 정보
 
 <small>사진: <a href="https://unsplash.com/@mildlee?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Mildlee</a> on <a href="https://unsplash.com/?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a></small>
+
+<!-- related-posts -->
+### 함께 읽으면 좋은 글
+- [아기 침대 흔들릴 때 확인해야 할 고정법](/posts/howto-crib-wobble-fix/)
+- [속싸개 세트 반년 써보고 남기는 솔직한 후기](/posts/exp-swaddle-set-six-months/)
+- [아기 침대 매트리스, 딱딱해야 하는 이유](/posts/edu-crib-mattress-firmness/)
