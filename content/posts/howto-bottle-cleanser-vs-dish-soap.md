@@ -63,3 +63,6 @@ description: "젖병은 그냥 주방 세제로 닦아도 될까요? 젖병 세�
 - [젖병 세척 브러시, 왜 전용으로 써야 할까](/posts/edu-bottle-brush-dedicated/)
 - [젖병 세트 반년 써보고 남기는 솔직한 후기](/posts/exp-bottle-set-six-month-review/)
 - [젖병 교체 주기, 젖꼭지와 병이 다른 이유](/posts/edu-baby-bottle-nipple-replacement-cycle/)
+
+이 주제가 처음이라면 [젖병 고르기부터 이유식 외출까지, 한자리에 모아봤어요](https://babycare.inforcore.net/posts/hub-feeding-weaning/)에서 전체 글 흐름을 한눈에 볼 수 있습니다.
+<!-- hub-link -->

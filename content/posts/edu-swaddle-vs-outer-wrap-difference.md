@@ -63,3 +63,6 @@ A. 잠자는 아기의 얼굴 주변에 천이 덮이지 않도록 하는 게 �
 - [속싸개와 겉싸개, 고르기 전에 알아야 할 차이](/posts/edu-swaddle-vs-wrap-difference/)
 - [속싸개 답답해 보일 때 — 원인부터 좁혀가는 법](/posts/howto-swaddle-looks-tight/)
 - [수면조끼와 이불, 개월수마다 뭐가 나을까](/posts/exp-sleep-vest-vs-blanket/)
+
+이 주제가 처음이라면 [아기 수면·안전용품, 무엇부터 챙길지 막막할 때 읽는 길잡이](https://babycare.inforcore.net/posts/hub-sleep-safety/)에서 전체 글 흐름을 한눈에 볼 수 있습니다.
+<!-- hub-link -->

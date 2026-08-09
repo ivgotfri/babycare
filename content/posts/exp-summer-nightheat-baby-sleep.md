@@ -49,3 +49,6 @@ description: "두 번의 여름을 지나며 열대야에 아기 재우는 자�
 - [백색소음기, 아기 수면에 정말 도움이 될까](/posts/exp-white-noise-machine/)
 - [아기 침대 1년 써보고 느낀 점](/posts/exp-crib-one-year/)
 - [아기 침대 흔들릴 때 확인해야 할 고정법](/posts/howto-crib-wobble-fix/)
+
+이 주제가 처음이라면 [아기 수면·안전용품, 무엇부터 챙길지 막막할 때 읽는 길잡이](https://babycare.inforcore.net/posts/hub-sleep-safety/)에서 전체 글 흐름을 한눈에 볼 수 있습니다.
+<!-- hub-link -->

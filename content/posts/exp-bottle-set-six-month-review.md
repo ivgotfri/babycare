@@ -60,3 +60,6 @@ cover:
 - [젖병 세척 브러시, 왜 전용으로 써야 할까](/posts/edu-bottle-brush-dedicated/)
 - [젖병 교체 주기, 젖꼭지와 병이 다른 이유](/posts/edu-baby-bottle-nipple-replacement-cycle/)
 - [젖병 건조대, 통풍이 왜 중요할까](/posts/edu-bottle-drying-rack-airflow/)
+
+이 주제가 처음이라면 [젖병 고르기부터 이유식 외출까지, 한자리에 모아봤어요](https://babycare.inforcore.net/posts/hub-feeding-weaning/)에서 전체 글 흐름을 한눈에 볼 수 있습니다.
+<!-- hub-link -->

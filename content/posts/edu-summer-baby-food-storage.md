@@ -64,3 +64,6 @@ cover:
 - [이유식 큐브, 냉동 보관 기간 얼마나 될까](/posts/edu-baby-food-cube-freezer-storage/)
 - [늦여름 분유 보관, 개봉 후 한 달 기준을 지키는 이유](/posts/edu-formula-storage-after-opening/)
 - [분유 타는 물 온도, 기준이 있는 이유](/posts/howto-formula-water-temperature/)
+
+이 주제가 처음이라면 [젖병 고르기부터 이유식 외출까지, 한자리에 모아봤어요](https://babycare.inforcore.net/posts/hub-feeding-weaning/)에서 전체 글 흐름을 한눈에 볼 수 있습니다.
+<!-- hub-link -->

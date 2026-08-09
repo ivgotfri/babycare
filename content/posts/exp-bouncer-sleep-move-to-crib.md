@@ -63,3 +63,6 @@ cover:
 - [아기 침대 매트리스, 딱딱해야 하는 이유](/posts/edu-crib-mattress-firmness/)
 - [열대야 아기 잠자리, 에어컨 바람 방향부터](/posts/exp-summer-nightheat-baby-sleep/)
 - [백색소음기, 아기 수면에 정말 도움이 될까](/posts/exp-white-noise-machine/)
+
+이 주제가 처음이라면 [아기 수면·안전용품, 무엇부터 챙길지 막막할 때 읽는 길잡이](https://babycare.inforcore.net/posts/hub-sleep-safety/)에서 전체 글 흐름을 한눈에 볼 수 있습니다.
+<!-- hub-link -->

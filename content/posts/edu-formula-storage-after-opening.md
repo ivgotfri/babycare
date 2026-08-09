@@ -61,3 +61,6 @@ cover:
 - [분유 타는 물 온도, 기준이 있는 이유](/posts/howto-formula-water-temperature/)
 - [젖병 교체 주기, 젖꼭지와 병이 다른 이유](/posts/edu-baby-bottle-nipple-replacement-cycle/)
 - [여름철 이유식 보관, 상온이 위험한 이유](/posts/edu-summer-baby-food-storage/)
+
+이 주제가 처음이라면 [젖병 고르기부터 이유식 외출까지, 한자리에 모아봤어요](https://babycare.inforcore.net/posts/hub-feeding-weaning/)에서 전체 글 흐름을 한눈에 볼 수 있습니다.
+<!-- hub-link -->

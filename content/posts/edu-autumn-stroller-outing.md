@@ -66,3 +66,6 @@ cover:
 - [폭염 지나고 유모차 시트, 땀 얼룩 정리 시점](/posts/howto-stroller-seat-sweat-stains/)
 - [유모차 접이식 구조, 관리할 때 확인할 것들](/posts/howto-stroller-fold-maintenance/)
 - [이슬비 정도엔 유모차 그냥 써도 될까](/posts/howto-stroller-light-rain-waterproof/)
+
+이 주제가 처음이라면 [외출용품, 처음이라면 이 순서로 읽어보세요](https://babycare.inforcore.net/posts/hub-outing-gear/)에서 전체 글 흐름을 한눈에 볼 수 있습니다.
+<!-- hub-link -->

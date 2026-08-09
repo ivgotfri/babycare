@@ -59,3 +59,6 @@ cover:
 - [초가을 새벽 기온, 아기 방 온도 조절 요령](/posts/exp-autumn-baby-room-temperature/)
 - [아기 침대 흔들릴 때 확인해야 할 고정법](/posts/howto-crib-wobble-fix/)
 - [아기 침대 1년 써보고 느낀 점](/posts/exp-crib-one-year/)
+
+이 주제가 처음이라면 [아기 수면·안전용품, 무엇부터 챙길지 막막할 때 읽는 길잡이](https://babycare.inforcore.net/posts/hub-sleep-safety/)에서 전체 글 흐름을 한눈에 볼 수 있습니다.
+<!-- hub-link -->

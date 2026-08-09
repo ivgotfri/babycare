@@ -59,3 +59,6 @@ cover:
 - [열대야 아기 잠자리, 에어컨 바람 방향부터](/posts/exp-summer-nightheat-baby-sleep/)
 - [아기 체온계, 종류별 정확도 차이 쉽게 설명](/posts/edu-baby-thermometer-accuracy/)
 - [아기 침대 흔들릴 때 확인해야 할 고정법](/posts/howto-crib-wobble-fix/)
+
+이 주제가 처음이라면 [아기 수면·안전용품, 무엇부터 챙길지 막막할 때 읽는 길잡이](https://babycare.inforcore.net/posts/hub-sleep-safety/)에서 전체 글 흐름을 한눈에 볼 수 있습니다.
+<!-- hub-link -->

@@ -63,3 +63,6 @@ cover:
 - [아기띠 종류별 구조 차이 이해하기](/posts/edu-baby-carrier-types-structure/)
 - [아기띠 종류별 구조 차이, 하나씩 뜯어봤어요](/posts/edu-baby-carrier-types/)
 - [유모차 무게 6kg과 9kg, 숫자 이상의 차이](/posts/edu-stroller-weight-6kg-9kg/)
+
+이 주제가 처음이라면 [외출용품, 처음이라면 이 순서로 읽어보세요](https://babycare.inforcore.net/posts/hub-outing-gear/)에서 전체 글 흐름을 한눈에 볼 수 있습니다.
+<!-- hub-link -->

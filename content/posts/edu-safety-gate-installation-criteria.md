@@ -90,3 +90,6 @@ cover:
 - [아기 체온계, 종류별 정확도 차이 쉽게 설명](/posts/edu-baby-thermometer-accuracy/)
 - [콘센트 안전커버, 꼭 필요한 이유](/posts/edu-outlet-cover-safety/)
 - [아기 코너가드, 어디에 붙여야 효과적일까](/posts/edu-corner-guard-placement/)
+
+이 주제가 처음이라면 [아기 수면·안전용품, 무엇부터 챙길지 막막할 때 읽는 길잡이](https://babycare.inforcore.net/posts/hub-sleep-safety/)에서 전체 글 흐름을 한눈에 볼 수 있습니다.
+<!-- hub-link -->

@@ -57,3 +57,6 @@ PPSU는 이름이 낯설지만, 열과 충격에 강하게 설계된 엔지니�
 - [분유포트와 일반포트, 뭐가 다를까](/posts/edu-formula-pot-vs-kettle/)
 - [실리콘 젖병과 유리젖병, 무게 때문에 고민될 때](/posts/edu-silicone-vs-glass-bottle-weight/)
 - [젖병 답답할 정도로 안 나올 때 확인해야 할 것들](/posts/howto-baby-bottle-nipple-clogged/)
+
+이 주제가 처음이라면 [젖병 고르기부터 이유식 외출까지, 한자리에 모아봤어요](https://babycare.inforcore.net/posts/hub-feeding-weaning/)에서 전체 글 흐름을 한눈에 볼 수 있습니다.
+<!-- hub-link -->

@@ -59,3 +59,6 @@ cover:
 - [폭염 지나고 유모차 시트, 땀 얼룩 정리 시점](/posts/howto-stroller-seat-sweat-stains/)
 - [아기띠 힙시트 전환 시점, 아이 몸무게로 가늠하는 기준](/posts/edu-hipseat-transition-weight/)
 - [카시트 ISOFIX와 벨트 고정, 설치 난이도가 갈리는 지점](/posts/exp-carseat-isofix-belt-installation/)
+
+이 주제가 처음이라면 [외출용품, 처음이라면 이 순서로 읽어보세요](https://babycare.inforcore.net/posts/hub-outing-gear/)에서 전체 글 흐름을 한눈에 볼 수 있습니다.
+<!-- hub-link -->

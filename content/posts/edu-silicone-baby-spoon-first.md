@@ -67,3 +67,6 @@ cover:
 - [여름철 이유식 보관, 상온이 위험한 이유](/posts/edu-summer-baby-food-storage/)
 - [이유식 알레르기 반응, 확인 순서 알아두기](/posts/edu-baby-food-allergy-check-order/)
 - [분유 타는 물 온도, 기준이 있는 이유](/posts/howto-formula-water-temperature/)
+
+이 주제가 처음이라면 [젖병 고르기부터 이유식 외출까지, 한자리에 모아봤어요](https://babycare.inforcore.net/posts/hub-feeding-weaning/)에서 전체 글 흐름을 한눈에 볼 수 있습니다.
+<!-- hub-link -->

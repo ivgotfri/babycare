@@ -55,3 +55,6 @@ cover:
 - [카시트 벨트가 자꾸 풀릴 때 점검하는 순서](/posts/howto-car-seat-belt-loosening/)
 - [카시트 방향(후방/전방), 언제 바꿔야 할까](/posts/edu-car-seat-direction-timing/)
 - [카시트 ISOFIX와 벨트 고정, 설치 난이도가 갈리는 지점](/posts/exp-carseat-isofix-belt-installation/)
+
+이 주제가 처음이라면 [외출용품, 처음이라면 이 순서로 읽어보세요](https://babycare.inforcore.net/posts/hub-outing-gear/)에서 전체 글 흐름을 한눈에 볼 수 있습니다.
+<!-- hub-link -->

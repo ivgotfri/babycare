@@ -55,3 +55,6 @@ cover:
 - [기내 반입 유모차, 규격 확인이 먼저인 이유](/posts/edu-airplane-stroller-size/)
 - [유모차 종류별 구조 차이, 우리 아이한테 뭐가 맞을까](/posts/edu-stroller-types/)
 - [유모차 무게 6kg과 9kg, 숫자 이상의 차이](/posts/edu-stroller-weight-6kg-9kg/)
+
+이 주제가 처음이라면 [외출용품, 처음이라면 이 순서로 읽어보세요](https://babycare.inforcore.net/posts/hub-outing-gear/)에서 전체 글 흐름을 한눈에 볼 수 있습니다.
+<!-- hub-link -->

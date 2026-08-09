@@ -73,3 +73,6 @@ cover:
 - [장마철 아기 침구 관리, 이렇게 달라졌어요](/posts/edu-rainy-season-baby-bedding/)
 - [장마철 아기방 습도 관리, 제습이 왜 중요할까](/posts/edu-baby-room-humidity-monsoon/)
 - [늦여름 아기 땀띠 걱정, 잠옷 소재 고르는 기준](/posts/edu-baby-pajama-fabric/)
+
+이 주제가 처음이라면 [아기 수면·안전용품, 무엇부터 챙길지 막막할 때 읽는 길잡이](https://babycare.inforcore.net/posts/hub-sleep-safety/)에서 전체 글 흐름을 한눈에 볼 수 있습니다.
+<!-- hub-link -->

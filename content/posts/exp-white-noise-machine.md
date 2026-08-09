@@ -57,3 +57,6 @@ cover:
 - [열대야 아기 잠자리, 에어컨 바람 방향부터](/posts/exp-summer-nightheat-baby-sleep/)
 - [아기 침대 1년 써보고 느낀 점](/posts/exp-crib-one-year/)
 - [백색소음기 볼륨, 기준을 정해두는 이유](/posts/exp-white-noise-machine-volume/)
+
+이 주제가 처음이라면 [아기 수면·안전용품, 무엇부터 챙길지 막막할 때 읽는 길잡이](https://babycare.inforcore.net/posts/hub-sleep-safety/)에서 전체 글 흐름을 한눈에 볼 수 있습니다.
+<!-- hub-link -->

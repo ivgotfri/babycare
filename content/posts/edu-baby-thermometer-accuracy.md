@@ -62,3 +62,6 @@ cover:
 - [아기 침대 흔들릴 때 확인해야 할 고정법](/posts/howto-crib-wobble-fix/)
 - [속싸개와 겉싸개, 고르기 전에 알아야 할 차이](/posts/edu-swaddle-vs-wrap-difference/)
 - [아기 침대 매트리스, 딱딱해야 하는 이유](/posts/edu-crib-mattress-firmness/)
+
+이 주제가 처음이라면 [아기 수면·안전용품, 무엇부터 챙길지 막막할 때 읽는 길잡이](https://babycare.inforcore.net/posts/hub-sleep-safety/)에서 전체 글 흐름을 한눈에 볼 수 있습니다.
+<!-- hub-link -->

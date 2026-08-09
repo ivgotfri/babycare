@@ -71,3 +71,6 @@ cover:
 - [장마철 아기 침구 관리, 이렇게 달라졌어요](/posts/edu-rainy-season-baby-bedding/)
 - [여름철 아기 수면환경, 온도·습도 체크리스트](/posts/edu-summer-baby-sleep-temperature-humidity/)
 - [자동화장실(스마트기저귀) 감지 안 될 때 원인과 대처](/posts/howto-smart-diaper-sensor-not-detecting/)
+
+이 주제가 처음이라면 [아기 수면·안전용품, 무엇부터 챙길지 막막할 때 읽는 길잡이](https://babycare.inforcore.net/posts/hub-sleep-safety/)에서 전체 글 흐름을 한눈에 볼 수 있습니다.
+<!-- hub-link -->

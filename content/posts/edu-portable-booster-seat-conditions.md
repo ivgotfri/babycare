@@ -58,3 +58,6 @@ cover:
 - [폭염 지나고 유모차 시트, 땀 얼룩 정리 시점](/posts/howto-stroller-seat-sweat-stains/)
 - [아기띠 신생아 패드, 언제까지 쓰는지 기준 잡기](/posts/edu-baby-carrier-newborn-insert/)
 - [카시트 방향(후방/전방), 언제 바꿔야 할까](/posts/edu-car-seat-direction-timing/)
+
+이 주제가 처음이라면 [외출용품, 처음이라면 이 순서로 읽어보세요](https://babycare.inforcore.net/posts/hub-outing-gear/)에서 전체 글 흐름을 한눈에 볼 수 있습니다.
+<!-- hub-link -->

@@ -55,3 +55,6 @@ TOG 숫자와 함께, 몸 크기(개월·키)가 우리 아이에게 맞는지, 
 - [제품안전정보센터](https://www.safetykorea.kr)
 
 <small>사진: <a href="https://unsplash.com/@slaapwijsheid?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Slaapwijsheid.nl</a> on <a href="https://unsplash.com/?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a></small>
+
+이 주제가 처음이라면 [아기 수면·안전용품, 무엇부터 챙길지 막막할 때 읽는 길잡이](https://babycare.inforcore.net/posts/hub-sleep-safety/)에서 전체 글 흐름을 한눈에 볼 수 있습니다.
+<!-- hub-link -->

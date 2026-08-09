@@ -65,3 +65,6 @@ cover:
 - [속싸개 따로, 겉싸개 따로 쓰는 이유가 있습니다](/posts/edu-swaddle-vs-outer-wrap-difference/)
 - [아기 체온계, 종류별 정확도 차이 쉽게 설명](/posts/edu-baby-thermometer-accuracy/)
 - [수면조끼와 이불, 개월수마다 뭐가 나을까](/posts/exp-sleep-vest-vs-blanket/)
+
+이 주제가 처음이라면 [아기 수면·안전용품, 무엇부터 챙길지 막막할 때 읽는 길잡이](https://babycare.inforcore.net/posts/hub-sleep-safety/)에서 전체 글 흐름을 한눈에 볼 수 있습니다.
+<!-- hub-link -->

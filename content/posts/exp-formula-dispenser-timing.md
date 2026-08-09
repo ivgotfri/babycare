@@ -51,3 +51,6 @@ cover:
 - [제품안전정보센터](https://www.safetykorea.kr)
 
 <small>사진: <a href="https://unsplash.com/@jpainho?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Joceline Painho</a> on <a href="https://unsplash.com/?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a></small>
+
+이 주제가 처음이라면 [젖병 고르기부터 이유식 외출까지, 한자리에 모아봤어요](https://babycare.inforcore.net/posts/hub-feeding-weaning/)에서 전체 글 흐름을 한눈에 볼 수 있습니다.
+<!-- hub-link -->

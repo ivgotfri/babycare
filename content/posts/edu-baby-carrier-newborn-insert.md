@@ -56,3 +56,6 @@ cover:
 - [카시트 방향(후방/전방), 언제 바꿔야 할까](/posts/edu-car-seat-direction-timing/)
 
 <small>사진: <a href="https://unsplash.com/@anspchee?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Al Soot</a> on <a href="https://unsplash.com/?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a></small>
+
+이 주제가 처음이라면 [외출용품, 처음이라면 이 순서로 읽어보세요](https://babycare.inforcore.net/posts/hub-outing-gear/)에서 전체 글 흐름을 한눈에 볼 수 있습니다.
+<!-- hub-link -->

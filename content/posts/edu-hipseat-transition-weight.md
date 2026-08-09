@@ -69,3 +69,6 @@ cover:
 - [아기띠 신생아 패드, 언제까지 쓰는지 기준 잡기](/posts/edu-baby-carrier-newborn-insert/)
 - [힙시트 아기띠 8개월 써보니: 여름 장마철에 알게 된 솔직한 이야기](/posts/exp-hipseat-carrier-review/)
 - [힙시트와 아기띠, 아이 개월수별로 뭐가 나을까](/posts/exp-hipseat-vs-carrier-months/)
+
+이 주제가 처음이라면 [외출용품, 처음이라면 이 순서로 읽어보세요](https://babycare.inforcore.net/posts/hub-outing-gear/)에서 전체 글 흐름을 한눈에 볼 수 있습니다.
+<!-- hub-link -->

@@ -53,3 +53,6 @@ description: "신생아 때부터 반년 넘게 속싸개 세트를 쓰며 겪�
 - [아기 침대 1년 써보고 느낀 점](/posts/exp-crib-one-year/)
 - [열대야 아기 잠자리, 에어컨 바람 방향부터](/posts/exp-summer-nightheat-baby-sleep/)
 - [속싸개 답답해 보일 때 — 원인부터 좁혀가는 법](/posts/howto-swaddle-looks-tight/)
+
+이 주제가 처음이라면 [아기 수면·안전용품, 무엇부터 챙길지 막막할 때 읽는 길잡이](https://babycare.inforcore.net/posts/hub-sleep-safety/)에서 전체 글 흐름을 한눈에 볼 수 있습니다.
+<!-- hub-link -->

@@ -67,3 +67,6 @@ cover:
 - [늦여름 주차장 카시트 열기, 태우기 전 식히는 순서](/posts/howto-summer-carseat-cooling/)
 
 <small>사진: <a href="https://unsplash.com/@arthur3607?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Arthur Tseng</a> on <a href="https://unsplash.com/?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a></small>
+
+이 주제가 처음이라면 [외출용품, 처음이라면 이 순서로 읽어보세요](https://babycare.inforcore.net/posts/hub-outing-gear/)에서 전체 글 흐름을 한눈에 볼 수 있습니다.
+<!-- hub-link -->

@@ -53,3 +53,6 @@ cover:
 - [이유식 보관용기, 소재별 특징 쉽게 설명](/posts/edu-baby-food-container-materials/)
 - [이유식 다지기, 수동과 전동 뭐가 나을까](/posts/howto-baby-food-chopper-manual-vs-electric/)
 - [열탕·증기·UV 소독, 우리 집에 맞는 방식 고르기](/posts/exp-bottle-sterilizing-methods/)
+
+이 주제가 처음이라면 [젖병 고르기부터 이유식 외출까지, 한자리에 모아봤어요](https://babycare.inforcore.net/posts/hub-feeding-weaning/)에서 전체 글 흐름을 한눈에 볼 수 있습니다.
+<!-- hub-link -->

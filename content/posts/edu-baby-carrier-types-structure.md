@@ -74,3 +74,6 @@ cover:
 - [아기띠 종류별 구조 차이, 하나씩 뜯어봤어요](/posts/edu-baby-carrier-types/)
 - [유모차 종류별 구조 차이, 우리 아이한테 뭐가 맞을까](/posts/edu-stroller-types/)
 - [아기띠 신생아 패드, 언제까지 쓰는지 기준 잡기](/posts/edu-baby-carrier-newborn-insert/)
+
+이 주제가 처음이라면 [외출용품, 처음이라면 이 순서로 읽어보세요](https://babycare.inforcore.net/posts/hub-outing-gear/)에서 전체 글 흐름을 한눈에 볼 수 있습니다.
+<!-- hub-link -->

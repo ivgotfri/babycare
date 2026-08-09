@@ -57,3 +57,6 @@ cover:
 - [젖꼭지 유량, 개월수마다 다른 이유](/posts/edu-nipple-flow-by-month/)
 - [분유포트와 일반포트, 뭐가 다를까](/posts/edu-formula-pot-vs-kettle/)
 - [젖병 소재(유리/PPSU), 뭐가 다를까](/posts/edu-baby-bottle-glass-ppsu/)
+
+이 주제가 처음이라면 [젖병 고르기부터 이유식 외출까지, 한자리에 모아봤어요](https://babycare.inforcore.net/posts/hub-feeding-weaning/)에서 전체 글 흐름을 한눈에 볼 수 있습니다.
+<!-- hub-link -->

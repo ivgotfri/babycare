@@ -65,3 +65,6 @@ cover:
 - [여름철 유모차 외출, 더위 대비 체크리스트](/posts/edu-summer-stroller-heat-checklist/)
 
 <small>사진: <a href="https://unsplash.com/@mtimber71?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Mark Timberlake</a> on <a href="https://unsplash.com/?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a></small>
+
+이 주제가 처음이라면 [외출용품, 처음이라면 이 순서로 읽어보세요](https://babycare.inforcore.net/posts/hub-outing-gear/)에서 전체 글 흐름을 한눈에 볼 수 있습니다.
+<!-- hub-link -->

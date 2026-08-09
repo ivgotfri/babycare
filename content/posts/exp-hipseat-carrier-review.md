@@ -60,3 +60,6 @@ cover:
 - [절충형 유모차 10개월 써보니: 솔직한 장단점](/posts/exp-convertible-stroller/)
 - [아기띠 1년 써보고 느낀 점](/posts/exp-baby-carrier-one-year/)
 - [힙시트와 아기띠, 아이 개월수별로 뭐가 나을까](/posts/exp-hipseat-vs-carrier-months/)
+
+이 주제가 처음이라면 [외출용품, 처음이라면 이 순서로 읽어보세요](https://babycare.inforcore.net/posts/hub-outing-gear/)에서 전체 글 흐름을 한눈에 볼 수 있습니다.
+<!-- hub-link -->

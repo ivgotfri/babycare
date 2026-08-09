@@ -49,3 +49,6 @@ ISOFIX 카시트를 처음 장착하던 날이 기억납니다. 카시트 아래
 - [카시트 중고로 물려받을 때 살펴야 하는 부분](/posts/exp-secondhand-carseat-check/)
 - [카시트 방향(후방/전방), 언제 바꿔야 할까](/posts/edu-car-seat-direction-timing/)
 - [늦여름 주차장 카시트 열기, 태우기 전 식히는 순서](/posts/howto-summer-carseat-cooling/)
+
+이 주제가 처음이라면 [외출용품, 처음이라면 이 순서로 읽어보세요](https://babycare.inforcore.net/posts/hub-outing-gear/)에서 전체 글 흐름을 한눈에 볼 수 있습니다.
+<!-- hub-link -->

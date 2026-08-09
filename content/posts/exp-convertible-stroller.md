@@ -53,3 +53,6 @@ description: "절충형 유모차를 10개월 넘게 실제로 끌고 다니며 
 - [힙시트 아기띠 8개월 써보니: 여름 장마철에 알게 된 솔직한 이야기](/posts/exp-hipseat-carrier-review/)
 - [카시트 반년 써보고 남기는 솔직한 후기](/posts/exp-car-seat-six-months-review/)
 - [유모차 절충형과 디럭스형, 뭐가 다를까](/posts/exp-stroller-convertible-vs-deluxe/)
+
+이 주제가 처음이라면 [외출용품, 처음이라면 이 순서로 읽어보세요](https://babycare.inforcore.net/posts/hub-outing-gear/)에서 전체 글 흐름을 한눈에 볼 수 있습니다.
+<!-- hub-link -->
